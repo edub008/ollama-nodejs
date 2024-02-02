@@ -1,6 +1,6 @@
 # Ollama Node.js Sample
 
-This example shows how to run a large language model (Ollama) locally using Node.js.
+This example shows how to run a large language model (Ollama) locally using Node.js. For a more detailed discussion check out the following [mini blog](https://ergin-d.com/blog/nodejs-run-local-llm).
 
 ## Requirements
 
