@@ -10,8 +10,8 @@ This example shows how to run a large language model (Ollama) locally using Node
 * MacOS or Linux (Windows coming soon according to docs)
 
 ## Steps to Run
-1. Download and Install Ollama
-2. Download a model (such as Llama 2)
+1. Download and Install [Ollama](https://ollama.ai/)
+2. Download a [model](https://github.com/ollama/ollama?tab=readme-ov-file#model-library) (such as Llama 2)
 3. Install and Run Sample Code
 
 ## Run Sample
