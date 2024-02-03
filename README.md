@@ -33,6 +33,9 @@ That will run the default prompt "*Why is the sky blue?*".  To run a different p
 The `index.js` file contains all the code for this sample. It's contents are: 
 
 ```js
+import ollama from 'ollama'
+
+let modelResponse = ""
 let chatConfig = {
   model: "llama2",
   role: "user",
